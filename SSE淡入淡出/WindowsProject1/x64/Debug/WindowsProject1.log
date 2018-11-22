@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  WindowsProject1.cpp
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\windowsproject1.cpp(178): warning C4305: “参数”: 从“double”到“float”截断
+  ParallelFade.cpp
+  ImageFading.cpp
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\imagefading.cpp(39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\imagefading.cpp(40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\imagefading.cpp(41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\imagefading.cpp(75): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\imagefading.cpp(78): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\imagefading.cpp(79): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  BitmapLoader.cpp
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\bitmaploader.cpp(80): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\program files (x86)\wechat\wechat files\luoxiaotong002\files\3117393095王思源sse淡入淡出\sse淡入淡出\windowsproject1\bitmaploader.cpp(81): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  WindowsProject1.vcxproj -> E:\Program Files (x86)\wechat\WeChat Files\luoxiaotong002\Files\3117393095王思源SSE淡入淡出\SSE淡入淡出\x64\Debug\WindowsProject1.exe
+  WindowsProject1.vcxproj -> E:\Program Files (x86)\wechat\WeChat Files\luoxiaotong002\Files\3117393095王思源SSE淡入淡出\SSE淡入淡出\x64\Debug\WindowsProject1.pdb (Partial PDB)

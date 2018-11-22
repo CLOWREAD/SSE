@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  BitmapLoader.cpp
+BitmapLoader.cpp(80): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+BitmapLoader.cpp(81): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  ImageFading.cpp
+ImageFading.cpp(39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+ImageFading.cpp(40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+ImageFading.cpp(41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+ImageFading.cpp(75): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+ImageFading.cpp(78): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+ImageFading.cpp(79): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  ParallelFade.cpp
+  WindowsProject1.cpp
+WindowsProject1.cpp(178): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WindowsProject1.vcxproj -> E:\Program Files (x86)\wechat\WeChat Files\luoxiaotong002\Files\3117393095王思源SSE淡入淡出\SSE淡入淡出\x64\Release\WindowsProject1.exe
+  WindowsProject1.vcxproj -> E:\Program Files (x86)\wechat\WeChat Files\luoxiaotong002\Files\3117393095王思源SSE淡入淡出\SSE淡入淡出\x64\Release\WindowsProject1.pdb (Full PDB)
